@@ -75,7 +75,7 @@
 		"koa-bodyparser": "4.3.0",
 		"koa-json": "2.0.2",
 		"koa-response-time": "2.1.0",
-		"koa-router": "7.4.0",
+		"koa-router": "13.0.1",
 		"koa-send": "5.0.1",
 		"lodash": "4.17.20",
 		"microtime": "3.0.0",
